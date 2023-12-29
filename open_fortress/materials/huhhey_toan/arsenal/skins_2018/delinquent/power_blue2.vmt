@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/player/shared/invun_blue.vmt"
+	
+	insert
+	{
+		"$baseTexture" "huhhey_toan/Arsenal/Skins_2018/Delinquent/Delinquent_body_blue"
+	}
+}
